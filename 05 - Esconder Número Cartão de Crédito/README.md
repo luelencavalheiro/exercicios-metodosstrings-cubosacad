@@ -1,6 +1,6 @@
-![](https://i.imgur.com/xG74tOh.png)
+![](./../capa_readme_luelencavalheiro.gif)
 
-# Exercício 05
+# Exerc.05 - CubosAcademy - Julho/23
 
 ## Esconder número do cartão de crédito
 

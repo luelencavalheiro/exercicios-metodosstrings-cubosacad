@@ -1,6 +1,6 @@
-![](https://i.imgur.com/xG74tOh.png)
+![](./../capa_readme_luelencavalheiro.gif)
 
-# Exercício 09
+# Exerc.09 - CubosAcademy - Julho/23
 
 ## Gerador de Nickname
 

@@ -1,6 +1,6 @@
-![](https://i.imgur.com/xG74tOh.png)
+![](./../capa_readme_luelencavalheiro.gif)
 
-# Exercício 06
+# Exerc.06 - CubosAcademy - Julho/23
 
 ## Formatar número de celular
 

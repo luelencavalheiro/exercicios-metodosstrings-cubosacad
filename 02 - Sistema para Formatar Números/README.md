@@ -1,6 +1,6 @@
-![](https://i.imgur.com/xG74tOh.png)
+![](./../capa_readme_luelencavalheiro.gif)
 
-# Exercício 02
+# Exerc.02 - CubosAcademy - Julho/23
 
 ## Sistema para formatar números
 

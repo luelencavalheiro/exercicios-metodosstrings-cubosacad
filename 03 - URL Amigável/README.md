@@ -1,6 +1,6 @@
-![](https://i.imgur.com/xG74tOh.png)
+![](./../capa_readme_luelencavalheiro.gif)
 
-# Exercício 03
+# Exerc.03 - CubosAcademy - Julho/23
 
 ## URL amigável
 

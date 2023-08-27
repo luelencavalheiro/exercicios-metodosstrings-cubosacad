@@ -1,6 +1,6 @@
-![](https://i.imgur.com/xG74tOh.png)
+![](./../capa_readme_luelencavalheiro.gif)
 
-# Exercício 08
+# Exerc.08 - CubosAcademy - Julho/23
 
 ## Remover pontuação
 
