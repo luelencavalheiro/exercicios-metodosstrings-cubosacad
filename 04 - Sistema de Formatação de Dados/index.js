@@ -19,5 +19,10 @@ for (let item of arrayNome) {
 }
 nomeFormatado.trim();
 
+// formatando email
+email = email.trim()
+
+console.log(identificador);
 console.log(nomeFormatado);
+console.log(email);
 
